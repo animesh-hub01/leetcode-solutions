@@ -11,25 +11,15 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-            // Step 1: Count the number of nodes
-    int count = 0;
-    ListNode* temp = head;
+    ListNode* slow = head;
+    ListNode* fast = head;
 
-    while (temp != NULL) {
-        count++;
-        temp = temp->next;
+    while (fast != NULL && fast->next != NULL) {
+
+        slow = slow->next;
+        fast = fast->next->next;
     }
 
-    // Step 2: Find middle position
-    int middle = count / 2;
-
-    // Step 3: Move to middle node
-    temp = head;
-
-    for (int i = 0; i < middle; i++) {
-        temp = temp->next;
-    }
-
-    return temp;
+    return slow;
     }
 };
