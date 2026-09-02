@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -20,6 +21,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
