@@ -32,6 +32,7 @@ public:
         return mergeTwoSortedLinkedLists(left, right);
     }
 
+private:
     ListNode* findMiddle(ListNode* head) {
         // If list empty or single node
         if (head == nullptr || head->next == nullptr) {
