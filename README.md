@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0148-sort-list) |
@@ -71,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
