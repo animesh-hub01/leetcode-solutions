@@ -44,6 +44,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -78,8 +81,17 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
