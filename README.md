@@ -55,6 +55,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -97,4 +98,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
