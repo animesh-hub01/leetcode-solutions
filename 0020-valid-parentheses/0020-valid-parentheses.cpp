@@ -9,11 +9,12 @@ public:
             
             else{
                 if(st.size()==0) return false;
-
-                if((st.top()=='(' && s[i]==')') ||
-                    (st.top()=='[' && s[i]==']') ||
-                    (st.top()=='{' && s[i]=='}') ) {
-                        st.pop();
+                char ch = st.top();
+                st.pop();
+                if((ch=='(' && s[i]==')') ||
+                    (ch=='[' && s[i]==']') ||
+                    (ch=='{' && s[i]=='}') ) {
+                        continue;
                 }else{
                     return false;
                 }
