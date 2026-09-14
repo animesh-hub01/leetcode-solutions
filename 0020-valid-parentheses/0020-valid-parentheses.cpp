@@ -11,9 +11,9 @@ public:
                 if(st.size()==0) return false;
 
                 if((st.top()=='(' && s[i]==')') ||
-                (st.top()=='[' && s[i]==']') ||
-                (st.top()=='{' && s[i]=='}') ) {
-                    st.pop();
+                    (st.top()=='[' && s[i]==']') ||
+                    (st.top()=='{' && s[i]=='}') ) {
+                        st.pop();
                 }else{
                     return false;
                 }
