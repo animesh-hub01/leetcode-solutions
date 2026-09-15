@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
