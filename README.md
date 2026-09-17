@@ -60,6 +60,7 @@
 | [0155-min-stack](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0228-summary-ranges](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,4 +120,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
