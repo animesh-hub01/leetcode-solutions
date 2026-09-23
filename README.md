@@ -72,6 +72,7 @@
 | [0002-add-two-numbers](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -117,6 +118,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -126,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
