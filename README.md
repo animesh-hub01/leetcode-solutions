@@ -50,6 +50,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -129,6 +130,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0290-word-pattern) |
 ## Bracket Sequences
 |  |
 | ------- |
