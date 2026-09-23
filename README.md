@@ -52,6 +52,7 @@
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -133,6 +134,7 @@
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
