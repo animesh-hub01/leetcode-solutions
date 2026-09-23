@@ -92,6 +92,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Bracket Sequences
 |  |
@@ -136,4 +138,8 @@
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
