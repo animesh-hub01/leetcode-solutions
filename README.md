@@ -83,6 +83,7 @@
 | [0258-add-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/animesh-hub01/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
 |  |
@@ -192,9 +193,22 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
