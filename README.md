@@ -112,6 +112,7 @@
 | [0303-range-sum-query-immutable](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -193,4 +194,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
