@@ -1,12 +1,15 @@
 /**
  * @return {Function}
  */
-const createHelloWorld = function() {
+function createHelloWorld(){
     
-    return function(...args) {
-        return "Hello World";
+    return function() {
+        return ("Hello World");
     }
 };
+
+const output = createHelloWorld();
+output();
 
 /**
  * const f = createHelloWorld();
