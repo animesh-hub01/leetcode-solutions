@@ -86,6 +86,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/animesh-hub01/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
 |  |
@@ -118,6 +119,7 @@
 | [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -213,4 +216,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
