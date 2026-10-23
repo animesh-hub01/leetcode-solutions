@@ -117,6 +117,7 @@
 | [0027-remove-element](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -208,6 +209,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -269,5 +271,6 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
