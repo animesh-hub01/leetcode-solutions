@@ -86,6 +86,7 @@
 | [0507-perfect-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -123,6 +124,7 @@
 | [0724-find-pivot-index](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0976-largest-perimeter-triangle](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
