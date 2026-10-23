@@ -123,6 +123,7 @@
 | [0724-find-pivot-index](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0976-largest-perimeter-triangle](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1929-concatenation-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -194,6 +195,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
