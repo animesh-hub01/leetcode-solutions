@@ -81,6 +81,7 @@
 | [0007-reverse-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -115,6 +116,7 @@
 | [0014-longest-common-prefix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -266,5 +268,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
