@@ -56,6 +56,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Merge Sort
@@ -166,6 +168,7 @@
 | [0058-length-of-last-word](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
