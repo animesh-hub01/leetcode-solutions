@@ -129,6 +129,7 @@
 | [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0976-largest-perimeter-triangle](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
@@ -261,4 +263,8 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
