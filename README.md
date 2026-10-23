@@ -34,6 +34,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -121,6 +122,7 @@
 | [0217-contains-duplicate](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/animesh-hub01/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
